@@ -1,0 +1,12 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: black;
+    text-align: justify;
+   
+}
